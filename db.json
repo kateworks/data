@@ -35,7 +35,31 @@
         "about": "Frontend-developer",
         "avatar": "https://avatars1.githubusercontent.com/u/63733918?s=400&u=bdb30f6f8922750f607f223b4c93a0bb84dc2316&v=4"
       }
-    }
+    },
+    { 
+      "_id": 3, 
+      "name": "Карелия", 
+      "link": "https://wikiway.com/upload/hl-photo/181/karelia_124.jpg", 
+      "likes": [],
+      "owner": {
+        "id": 1,
+        "name": "Ekaterina", 
+        "about": "Frontend-developer",
+        "avatar": "https://avatars1.githubusercontent.com/u/63733918?s=400&u=bdb30f6f8922750f607f223b4c93a0bb84dc2316&v=4"
+      }
+    },
+    { 
+      "_id": 4, 
+      "name": "Озеро Байкал", 
+      "link": "https://wikiway.com/upload/hl-photo/157/e31/ozero_baikal_207.jpg", 
+      "likes": [],
+      "owner": {
+        "id": 1,
+        "name": "Ekaterina", 
+        "about": "Frontend-developer",
+        "avatar": "https://avatars1.githubusercontent.com/u/63733918?s=400&u=bdb30f6f8922750f607f223b4c93a0bb84dc2316&v=4"
+      }
+    }        
    ],
   "profile": {
     "id": 1,
