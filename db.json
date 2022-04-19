@@ -6,7 +6,7 @@
   ],
   "cards": [
     { 
-      "_id": 1, 
+      "id": 1, 
       "name": "Алтай", 
       "link": "https://wikiway.com/upload/hl-photo/a0e/621/altayskie-gory_137.jpg",
       "likes": [
@@ -25,7 +25,7 @@
       }
     },
     { 
-      "_id": 2, 
+      "id": 2, 
       "name": "Адыгея", 
       "link": "https://wikiway.com/upload/resize_cache/uf/ba6/1024_800_1/adigeya_118.jpg", 
       "likes": [],
@@ -37,7 +37,7 @@
       }
     },
     { 
-      "_id": 3, 
+      "id": 3, 
       "name": "Карелия", 
       "link": "https://wikiway.com/upload/hl-photo/181/karelia_124.jpg", 
       "likes": [],
@@ -49,7 +49,7 @@
       }
     },
     { 
-      "_id": 4, 
+      "id": 4, 
       "name": "Озеро Байкал", 
       "link": "https://wikiway.com/upload/hl-photo/157/e31/ozero_baikal_207.jpg", 
       "likes": [],
