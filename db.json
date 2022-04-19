@@ -11,18 +11,23 @@
   "cards": [
     { 
       "_id": 1, 
-      "name": "Архыз", "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/arkhyz.jpg" 
+      "name": "Алтай", 
+      "link": "https://wikiway.com/upload/hl-photo/a0e/621/altayskie-gory_137.jpg" 
     },
     { 
       "_id": 2, 
-      "name": "Челябинская область", 
-      "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/chelyabinsk-oblast.jpg" 
+      "name": "Адыгея", 
+      "link": "https://wikiway.com/upload/resize_cache/uf/ba6/1024_800_1/adigeya_118.jpg" 
     },
     { "_id": 3, "name": "Иваново", "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/ivanovo.jpg" },
     { "_id": 4, "name": "Камчатка", "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kamchatka.jpg" },
     { "_id": 5, "name": "Холмогорский район", "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kholmogorsky-rayon.jpg" },
     { "_id": 6, "name": "Байкал", "link": "https://pictures.s3.yandex.net/frontend-developer/cards-compressed/baikal.jpg" }
    ],
+  "users": {
+    "me": {
+    }
+  },
   "profile": {
     "id": 1,
     "name": "Ekaterina", 
