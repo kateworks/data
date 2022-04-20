@@ -53,7 +53,21 @@
       "link": "https://wikiway.com/upload/hl-photo/f4a/5a9/elbrus_133.jpg", 
       "likes": [],
       "ownerId": 1
-    }        
+    },
+    { 
+      "id": 7, 
+      "name": "Камчатка", 
+      "link": "https://wikiway.com/upload/hl-photo/58c/kamchatka_184.jpg", 
+      "likes": [],
+      "ownerId": 1
+    },
+    { 
+      "id": 8, 
+      "name": "Валаам", 
+      "link": "https://wikiway.com/upload/hl-photo/f0c/38b/vaalam_82.jpg", 
+      "likes": [],
+      "ownerId": 1
+    }
   ],
   "profile": {
     "id": 1,
