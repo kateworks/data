@@ -6,6 +6,13 @@
   ],
   "cards": [
     { 
+      "id": 0, 
+      "name": "Петергоф", 
+      "link": "https://wikiway.com/upload/hl-photo/9c0/807/petergof_147.jpg", 
+      "likes": [],
+      "ownerId": 1
+    },
+    { 
       "id": 1, 
       "name": "Ладожское озеро", 
       "link": "https://wikiway.com/upload/resize_cache/uf/4b0/1024_800_1/ladozhskoe_ozero_46.jpg", 
@@ -37,28 +44,21 @@
       "id": 5, 
       "name": "Алтай", 
       "link": "https://wikiway.com/upload/hl-photo/a0e/621/altayskie-gory_137.jpg",
-      "likes": [
-        {
-          "id": 1,
-          "name": "Ekaterina", 
-          "about": "Frontend-developer",
-          "avatar": "https://avatars1.githubusercontent.com/u/63733918?s=400&u=bdb30f6f8922750f607f223b4c93a0bb84dc2316&v=4"
-        }        
-      ],
+      "likes": [1, 2],
       "ownerId": 1
     },
     { 
       "id": 6, 
       "name": "Адыгея", 
       "link": "https://wikiway.com/upload/resize_cache/uf/ba6/1024_800_1/adigeya_118.jpg", 
-      "likes": [],
+      "likes": [1],
       "ownerId": 1
     },
     { 
       "id": 7, 
       "name": "Карелия", 
       "link": "https://wikiway.com/upload/hl-photo/181/karelia_124.jpg", 
-      "likes": [],
+      "likes": [2],
       "ownerId": 1
     },
     { 
